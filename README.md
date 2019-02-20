@@ -1,6 +1,6 @@
 # Invasion Alien
 
-pequena aplicación grafica de escritorio que permite colorear unos cuadrados de diferentes colores
+pequena aplicaciÃ³n grafica de escritorio que permite colorear unos cuadrados de diferentes colores
 
 ### Algunas Capturas:
 
@@ -12,7 +12,7 @@ pequena aplicación grafica de escritorio que permite colorear unos cuadrados de 
 
 tener java instalado
 
-#· Instalacion
+## Instalacion
 
 ninguna
 
